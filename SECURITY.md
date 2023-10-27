@@ -1,6 +1,8 @@
 # Security Policy
 
-We believe that no technology is perfect and that working with skilled security researchers
+We believe that no technology is perfect and that working with skilled security res![Screenshot_2023-10-27-10-24-42-599_com google android dialer](https://github.com/ope![Screenshot_2023-10-27-15-35-46-680_com opera browser](https://github.com/opencollective/opencollective/assets/149170414/2a42a3f4-10db-4358-a91a-2924bbdd6a2f)
+ncollective/opencollective/assets/149170414/e467a86f-5cc8-4c57-bd3d-bc1d8ce17a4e)
+earchers
 is crucial in identifying weaknesses.
 
 If you believe you've found a security bug in our service, we'll be happy to work with you
